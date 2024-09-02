@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "91CZWhNntq24tgOrgACyPgchGz0nCyRb1AGY7MxOnp0iJ/7Hg3TUXb2fBTuyoOdjFpyMNmobQJr3XGE57P78dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alizo\\OneDrive\\Desktop\\Task\\Shopping_Project\\Shopping_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alizo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\alizo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\alizo\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
